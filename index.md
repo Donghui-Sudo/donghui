@@ -75,7 +75,7 @@ a = 100;
 if( a < 20 )
 then
    
-   print("a V 20" )
+   print("a > 20" )
 else
    
    print("a > 20" )
